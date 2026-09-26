@@ -1,11 +1,6 @@
 package com.quipux.colegio.models;
 
-import jakarta.persistence.Entity;
-import jakarta.persistence.Table;
-import jakarta.persistence.Id;
-import jakarta.persistence.GeneratedValue;
-import jakarta.persistence.GenerationType;
-import jakarta.persistence.Column;
+import jakarta.persistence.*;
 
 // RETO 1: Agrega las anotaciones necesarias para que esta clase sea una Entidad de Base de Datos.
 // PISTAS: 
